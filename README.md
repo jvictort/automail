@@ -28,7 +28,7 @@ Script de automação que permite com que emails sejam enviados solicitando repo
 
 Para que o script funcione, é necessário seguir as seguintes instruções:
 
-- Baixar as bibliotecas do arquivo requirements.txt
+- Instalar as bibliotecas de requirements.txt com o comando: pip install -r requirements.txt
 - Adicionar o email e a senha do remetente. Quanto as senhas, é necessário ativar verificação de dois fatores no Gmail e solicitar uma senha de aplicativo.
 
 ---
